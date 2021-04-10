@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-port/static/css/main.9d981b9d.chunk.css",
+    "main.js": "/react-port/static/js/main.8e86f622.chunk.js",
+    "main.js.map": "/react-port/static/js/main.8e86f622.chunk.js.map",
+    "runtime-main.js": "/react-port/static/js/runtime-main.91715083.js",
+    "runtime-main.js.map": "/react-port/static/js/runtime-main.91715083.js.map",
+    "static/js/2.59eab744.chunk.js": "/react-port/static/js/2.59eab744.chunk.js",
+    "static/js/2.59eab744.chunk.js.map": "/react-port/static/js/2.59eab744.chunk.js.map",
+    "static/js/3.978ebdcd.chunk.js": "/react-port/static/js/3.978ebdcd.chunk.js",
+    "static/js/3.978ebdcd.chunk.js.map": "/react-port/static/js/3.978ebdcd.chunk.js.map",
+    "index.html": "/react-port/index.html",
+    "static/css/main.9d981b9d.chunk.css.map": "/react-port/static/css/main.9d981b9d.chunk.css.map",
+    "static/js/2.59eab744.chunk.js.LICENSE.txt": "/react-port/static/js/2.59eab744.chunk.js.LICENSE.txt",
+    "static/media/DanielBradleyHeadshot.fba96204.JPG": "/react-port/static/media/DanielBradleyHeadshot.fba96204.JPG",
+    "static/media/Whiskey_Ice.7869b34f.jpg": "/react-port/static/media/Whiskey_Ice.7869b34f.jpg",
+    "static/media/cover-image.fe314dd9.png": "/react-port/static/media/cover-image.fe314dd9.png",
+    "static/media/danielbradley1pageresume.docx.e682c651.pdf": "/react-port/static/media/danielbradley1pageresume.docx.e682c651.pdf",
+    "static/media/githubImage.1e61d3b3.png": "/react-port/static/media/githubImage.1e61d3b3.png",
+    "static/media/myTeam.8552bd48.jpg": "/react-port/static/media/myTeam.8552bd48.jpg",
+    "static/media/weights.0823bad2.jpg": "/react-port/static/media/weights.0823bad2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91715083.js",
+    "static/js/2.59eab744.chunk.js",
+    "static/css/main.9d981b9d.chunk.css",
+    "static/js/main.8e86f622.chunk.js"
+  ]
+}
